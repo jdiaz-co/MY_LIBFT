@@ -79,7 +79,7 @@ Según he ido avanzando en mi curso de 42 he ido añadiendo funciones.
 
 El objetivo es crear una biblioteca llamada libft.a a partir de los archivos fuente para luego poder usar esa biblioteca de otros proyectos en 42.
 
-Para crear esa biblioteca, después de descargar / clonar este proyecto, haga cd en el proyecto, copie todos los archivos de las subcarpetas al directorio raíz y, finalmente, llame a make:
+Para crear esa biblioteca, después de descargar / clonar este proyecto, haga cd en el proyecto y, finalmente, llame a make:
 
 
 
